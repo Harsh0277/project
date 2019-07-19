@@ -1,0 +1,5 @@
+#!C:\Users\DELL\PycharmProjects\bit\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
